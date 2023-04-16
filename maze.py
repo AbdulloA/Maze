@@ -78,7 +78,8 @@ wall_2 = Wall(255, 255, 0, 20, 300, 100, 10)
 wall_3 = Wall(255, 255, 0, 20, 400, 300, 120)
 
 
-
+def print_info():
+    pass
 
 
 player = Player("hero.png", 5, 400, 5)
